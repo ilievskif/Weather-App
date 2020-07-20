@@ -1,4 +1,14 @@
-# weather-app-vue
+# WeatherApp ⛅️ 
+Weather app using Vue.js and OpenWeatherMap.
+
+![weatherApp](https://user-images.githubusercontent.com/37070132/87912382-964b8880-ca6d-11ea-8e6a-9cd755e41c06.jpg)
+
+### API Key
+- Create Api Key from [OpenWeatherMap](https://openweathermap.org). 
+- Enter the key on the line below in **src/App.vue**
+```javascript
+api_key: "YOUR_API_KEY"
+```
 
 ## Project setup
 ```
